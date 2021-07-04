@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../Arduino/radioBot"
+		},
+		{
+			"name": "210612-225912-esp32doit-devkit-v1",
+			"path": "../../../../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			".cflintrc": "json",
+			"array": "cpp",
+			"chrono": "cpp",
+			"string_view": "cpp",
+			"functional": "cpp",
+			"ratio": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"compare": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"*.tcc": "cpp",
+			"cmath": "cpp",
+			"complex": "cpp",
+			"string": "cpp",
+			"vector": "cpp",
+			"algorithm": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"numeric": "cpp",
+			"random": "cpp",
+			"fstream": "cpp",
+			"iosfwd": "cpp",
+			"limits": "cpp",
+			"new": "cpp",
+			"sstream": "cpp",
+			"streambuf": "cpp",
+			"typeinfo": "cpp",
+			"bit": "cpp",
+			"deque": "cpp",
+			"system_error": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"initializer_list": "cpp",
+			"cstring": "cpp",
+			"atomic": "cpp",
+			"cstdlib": "cpp",
+			"ctime": "c",
+			"iomanip": "c",
+			"esp32-hal.h": "c"
+		}
+	}
+}
